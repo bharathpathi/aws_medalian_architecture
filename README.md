@@ -1,0 +1,1 @@
+# aws_medalian_architecture
